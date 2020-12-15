@@ -33,3 +33,7 @@ jobs:
       - name: Push
         run: |
           make push-production
+
+      - name: Deploy
+        run: |
+          make run-remote
