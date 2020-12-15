@@ -1,0 +1,5 @@
+codechef.devopsdirective.com {
+  tls sid.palas@gmail.com
+  root * /srv
+  file_server
+}
