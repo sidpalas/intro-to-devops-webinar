@@ -1,8 +1,8 @@
 class: center, middle
 
-# Introduction to DevOps
+# Introduction to DevOps!
 
-### Sid Palas -- DevOps Directive!!!
+### Sid Palas -- DevOps Directive
 
 ![](./images/headshot.png)
 

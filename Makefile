@@ -4,7 +4,7 @@ build-local:
 run-local:
 	docker run -p 8080:80 presentation
 
-VM_IP:=104.236.4.10
+VM_IP:=64.225.52.13
 GITHUB_SHA?=latest
 IMAGE_TAG:=sidpalas/devops-directive-codechef:$(GITHUB_SHA)
 CONTAINER_NAME:=caddyserver
