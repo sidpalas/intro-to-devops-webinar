@@ -14,12 +14,6 @@ class: center, middle
 
 class: middle, center
 
-<iframe allowfullscreen frameborder="0" style="width:740px; height:580px" src="http://10.0.0.37:8080"></iframe></div>
-
----
-
-class: middle, center
-
 ###"DevOps is the combination of cultural philosophies, practices, 
 
 ###and tools that increases an organization’s ability to deliver 

@@ -1,7 +1,0 @@
-FROM caddy:2.1.1
-
-COPY Caddyfile.local /etc/caddy/Caddyfile
-
-COPY ./presentation /srv
-
-EXPOSE 80
