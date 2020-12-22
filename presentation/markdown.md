@@ -77,7 +77,7 @@ class: middle, center
 ```md
   1. Dockerize with Caddy
   2. Provision VM on Digital Ocean
-  3. Deploy to codechef.devopsdirective.com
+  3. Deploy to codu.mysuperawesomesite.com
 ```
 
 #### Part 3 (Time Permitting):
